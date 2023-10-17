@@ -2,9 +2,6 @@
 layout: default
 ---
 
-**Hey look at this guy > (0V0)**
-                        **__**
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
